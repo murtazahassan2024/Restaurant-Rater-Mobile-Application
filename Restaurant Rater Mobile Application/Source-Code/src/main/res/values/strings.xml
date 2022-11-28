@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restaurant Rater</string>
+    <string name="radioButtonBreakfast">Breakfast</string>
+    <string name="radioButtonLunch">Lunch</string>
+    <string name="radioButtonDinner">Dinner</string>
+    <string name="alertTitle">Review Details</string>
+</resources>
